@@ -1,0 +1,11 @@
+code for backout prediction 
+===========================
+
+
+elbow method---->  elbow method in code is used for finding the suitable value for "k"
+
+use of datasets:
+
+knn.csv -----> for training and testing
+drop_train.csv -----> for function " testing_knn() "
+datasetin.csv ------> for function " knn_dataset_prediction() "
